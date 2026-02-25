@@ -1,5 +1,5 @@
 from fastapi import FastAPI
-import psycopg
+import psycopg2
 import os
 import time
 from dotenv import load_dotenv
